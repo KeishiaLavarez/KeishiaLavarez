@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate coder and database enthusiast, wi
 
 -  **Education:** BSEMC Game Development
 -  New Era University
--  (2022-Present)
+-  2022-Present
 
 ## Certifications
 
