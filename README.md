@@ -1,6 +1,6 @@
 # Hello, I'm Keishia Lavarez 👋
 
-Welcome to my GitHub profile! I'm a passionate coder and database enthusiast, with a knack for solving intricate problems and creating elegant solutions. My journey in technology began when I embarked on the BS Information Technology program.
+Welcome to my GitHub profile! I'm a passionate coder and game developer enthusiast, with a knack for solving problems and creating games. My journey in technology began when I embarked on BS Entertainment Media Computing.
 
 ## About Me
 
